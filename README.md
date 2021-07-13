@@ -10,7 +10,8 @@
 
 ### 🍚 Login Page:
 
-![GIF2](https://user-images.githubusercontent.com/71979122/125314853-30c66b00-e354-11eb-9574-c2a49a2e7afe.gif)
+<img width="1319" alt="Screenshot 2021-07-14 at 12 17 22 AM" src="https://user-images.githubusercontent.com/87376916/125512382-70a6a6b0-9050-48a5-a993-92e14cdce768.png">
+
 
 
 
