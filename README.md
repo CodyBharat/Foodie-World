@@ -63,7 +63,8 @@ Web-browser(Eg: Chrome) >> localhost/myphpadmin(Type this in top of the page) >>
 # 🍵 cart_system
 This is shopping-cart database.
 ## 🍔 Interface 1:
-<img width="960" alt="g1" src="https://user-images.githubusercontent.com/71979122/123840718-4dae7780-d92c-11eb-9e4c-854e67ab7330.png">
+<img width="1317" alt="Screenshot 2021-07-14 at 1 16 06 AM" src="https://user-images.githubusercontent.com/87376916/125515534-dd6b4bb3-ee72-4a10-b15a-733536cc6c74.png">
+
 
 #### 🍧 In this there are 3 tables:
 
@@ -72,7 +73,10 @@ This is shopping-cart database.
 * product -> This is where we store products name, products price, product image, product code and id.
 
 ## 🍔 Interface 2 structure of cart:
-<img width="960" alt="g2" src="https://user-images.githubusercontent.com/71979122/123842241-2eb0e500-d92e-11eb-9dd7-eab7e4b17a00.png">
+<img width="1320" alt="Screenshot 2021-07-14 at 1 31 08 AM" src="https://user-images.githubusercontent.com/87376916/125517277-aa9d41ac-4a20-4db2-becd-3051bc055c84.png">
+<img width="1314" alt="Screenshot 2021-07-14 at 1 30 46 AM" src="https://user-images.githubusercontent.com/87376916/125517343-607dc64d-440b-472e-be1b-6724d5d39cb8.png">
+
+
 
 #### 🍕 In this we have created 7 column name:
 
@@ -85,7 +89,8 @@ This is shopping-cart database.
 7. product_code
 
 ## 🍔 Interface 3 structure of orders:
-<img width="960" alt="g3" src="https://user-images.githubusercontent.com/71979122/123843160-36bd5480-d92f-11eb-95a5-a5ef164555f3.png">
+<img width="1318" alt="Screenshot 2021-07-14 at 1 22 02 AM" src="https://user-images.githubusercontent.com/87376916/125516383-d24f519a-7aae-435c-a2cf-bbc3c4e9f89f.png">
+<img width="1322" alt="Screenshot 2021-07-14 at 1 22 48 AM" src="https://user-images.githubusercontent.com/87376916/125516456-ac3db4c2-8403-4f79-8f49-6eb2bea02398.png">
 
 #### 🍕 In this we have created 8 column name:
  
@@ -101,7 +106,8 @@ This is shopping-cart database.
 ## 🍔 Interface 4 structure of products:
 Here you have to add products details
 
-<img width="960" alt="g5" src="https://user-images.githubusercontent.com/71979122/123843976-180b8d80-d930-11eb-9852-8e22652e71df.png">
+<img width="1313" alt="Screenshot 2021-07-14 at 1 25 40 AM" src="https://user-images.githubusercontent.com/87376916/125516707-5fd008ee-89a9-4c86-9cd6-8bddf938779a.png">
+<img width="1319" alt="Screenshot 2021-07-14 at 1 25 23 AM" src="https://user-images.githubusercontent.com/87376916/125516754-132cbb00-f95f-4f53-8912-627b2193444d.png">
 
 #### 🍕 In this we have created 5 coloumn name:
 
@@ -112,12 +118,13 @@ Here you have to add products details
 5. product_code
 
 #### 🔦  Here are the some list of products which I have added
-<img width="960" alt="g4" src="https://user-images.githubusercontent.com/71979122/123843723-d7137900-d92f-11eb-9c37-e7102c967b8e.png">
+<img width="1317" alt="Screenshot 2021-07-14 at 1 34 40 AM" src="https://user-images.githubusercontent.com/87376916/125517710-467831b5-9ae6-4859-9334-638a0d91f293.png">
+
 
 
 # 🍵 login_register_pure_coding
 ## 🍔 Interface 1 table in database:
-<img width="960" alt="g6" src="https://user-images.githubusercontent.com/71979122/123844575-d62f1700-d930-11eb-93fe-f54b452474d8.png">
+<img width="1321" alt="Screenshot 2021-07-14 at 1 37 29 AM" src="https://user-images.githubusercontent.com/87376916/125517946-d1dbfdc3-d44d-492c-9a21-56cab1fbbfba.png">
 
 #### 🍧 Only 1 table that is users.
 
@@ -125,7 +132,8 @@ Here you have to add products details
 
 So here is the structure of users:
 
-<img width="960" alt="g99" src="https://user-images.githubusercontent.com/71979122/123902714-f4c1fc00-d98a-11eb-8a01-a42da60c5efe.png">
+<img width="1320" alt="Screenshot 2021-07-14 at 1 39 10 AM" src="https://user-images.githubusercontent.com/87376916/125518243-b2704af0-b596-4720-ad09-69886033e381.png">
+
 
 #### 🍕 In this we have created 4 coloum_name:
 
@@ -137,8 +145,8 @@ So here is the structure of users:
 Here in it we will store the value inputed in register information.
 
 #### 🔦 So here are some values which is inputed by user while using this website:
+<img width="1317" alt="Screenshot 2021-07-14 at 1 39 56 AM" src="https://user-images.githubusercontent.com/87376916/125518277-624bf8f8-7aa8-4e06-96ef-4ce0b156a7f3.png">
 
-<img width="960" alt="glast" src="https://user-images.githubusercontent.com/71979122/123844881-302fdc80-d931-11eb-8bce-b114a2d46148.png">
 
 ### 🍹 Note: (apply for all structure and interface )-> id data type is int and other coloumns data type is varchar.
 
