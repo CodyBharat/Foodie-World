@@ -1,4 +1,4 @@
-# Foodie World ☕️
+# ☕️ Foodie World 
 
 ## 🍦 Website Demo In 4 Parts:
 
@@ -25,7 +25,7 @@
 
 
 
-# Foodie World ☕️
+# ☕️ Foodie World
 
 #### This is the food ordering website. In this we have used these technologies:
 
