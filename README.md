@@ -5,7 +5,8 @@
 
 ### 🍰 Register Page:
 
-![gif1](https://user-images.githubusercontent.com/71979122/125310225-0672ae80-e350-11eb-9f7b-b0fcfb49e9f6.gif)
+<img width="1317" alt="Screenshot 2021-07-14 at 1 02 47 AM" src="https://user-images.githubusercontent.com/87376916/125513979-4d452e62-7f69-43fe-a325-9b05c67b1f25.png">
+
 
 
 ### 🍚 Login Page:
@@ -17,12 +18,16 @@
 
 ### 🍫 Food Items, Add To Cart
 
-![GIF3](https://user-images.githubusercontent.com/71979122/125313895-51da8c00-e353-11eb-8a9c-e79c50f51d6f.gif)
+<img width="1316" alt="Screenshot 2021-07-14 at 1 05 32 AM" src="https://user-images.githubusercontent.com/87376916/125514269-82ac3d21-9583-41c9-8f93-cae79f783cff.png">
+<img width="1312" alt="Screenshot 2021-07-14 at 1 08 30 AM" src="https://user-images.githubusercontent.com/87376916/125514598-175623c8-f3b4-4b0c-a697-be2cde0b3fe8.png">
+
 
 
 ### 🥪 Thank You Page and Log Out
 
-![GIF4](https://user-images.githubusercontent.com/71979122/125314132-8d755600-e353-11eb-803d-93ede42a7c88.gif)
+<img width="1323" alt="Screenshot 2021-07-14 at 1 11 04 AM" src="https://user-images.githubusercontent.com/87376916/125514949-9d61ec01-f487-4e39-a29f-b0a4e2f7b326.png">
+
+<img width="1313" alt="Screenshot 2021-07-14 at 1 11 22 AM" src="https://user-images.githubusercontent.com/87376916/125515006-c7e01ccf-2bb4-4e4c-b42b-c2d665a3c93f.png">
 
 
 
