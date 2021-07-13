@@ -5,7 +5,7 @@
 
 ### 🍰 Register Page:
 
-/Users/bharatsharma/Documents/Screenshot 2021-07-14 at 12.17.22 AM
+![gif1](https://user-images.githubusercontent.com/71979122/125310225-0672ae80-e350-11eb-9f7b-b0fcfb49e9f6.gif)
 
 
 ### 🍚 Login Page:
