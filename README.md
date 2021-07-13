@@ -1,4 +1,4 @@
-# Foodie-world
+# Foodie World ☕️
 
 ## 🍦 Website Demo In 4 Parts:
 
@@ -25,7 +25,7 @@
 
 
 
-# Food-Point 🍪
+# Foodie World ☕️
 
 #### This is the food ordering website. In this we have used these technologies:
 
@@ -141,4 +141,4 @@ Here in it we will store the value inputed in register information.
 2. Aditya Raj Singh(20BCS2854)
 3. Aniket kumar(20BCS2866)
 4. Rohit Gupta(20BCS2845)
-5. 
+
